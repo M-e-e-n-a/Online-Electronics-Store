@@ -46,4 +46,4 @@ Invoice Service: http://localhost:18083
 
 ###DEMO
 You can access the demo at the following link:  
-[Click here to access the demo](https://drive.google.com/file/d/1uiymQIjspPNv-Gt97dVTCYjC32mXaqSy/view?usp=sharing)
+https://drive.google.com/file/d/1uiymQIjspPNv-Gt97dVTCYjC32mXaqSy/view?usp=sharing
