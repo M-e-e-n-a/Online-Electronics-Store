@@ -45,4 +45,4 @@ Shipping Service: http://localhost:18082
 Invoice Service: http://localhost:18083
 
 ###DEMO
-You can access the demo of the application at the following link: https://drive.google.com/file/d/1uiymQIjspPNv-Gt97dVTCYjC32mXaqSy/view?usp=drive_link
+You can access the demo of the application at the following link: [Click here to access the demo](https://drive.google.com/file/d/1uiymQIjspPNv-Gt97dVTCYjC32mXaqSy/view?usp=drive_link)
